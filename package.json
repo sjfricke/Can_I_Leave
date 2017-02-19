@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/sjfricke/Can_I_Leave/issues"
   },
-  "homepage": "https://github.com/sjfricke/Can_I_Leave#readme"
+  "homepage": "https://github.com/sjfricke/Can_I_Leave#readme",
+  "dependencies": {
+    "webgl-obj-loader": "^0.1.1",
+    "body-parser": "^1.14.2",
+    "cookie-parser": "^1.4.0",
+    "express": "^4.13.3",
+    "forever": "^0.15.1",
+    "morgan": "^1.6.1"
+  }
 }
