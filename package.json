@@ -1,0 +1,22 @@
+{
+  "name": "can_i_leave",
+  "version": "1.0.0",
+  "description": "Leaving is the hardest thing to do",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjfricke/Can_I_Leave.git"
+  },
+  "keywords": [
+    "webgl"
+  ],
+  "author": "Spencer Fricke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjfricke/Can_I_Leave/issues"
+  },
+  "homepage": "https://github.com/sjfricke/Can_I_Leave#readme"
+}

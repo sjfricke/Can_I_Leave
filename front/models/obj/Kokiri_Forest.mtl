@@ -1,0 +1,90 @@
+newmtl nodeFBXASC04500D3A919SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd s04_ie_02r_22100.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl nodeFBXASC04500DB616BSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd s04_kusa_03_3FF00.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl nodeFBXASC04502D34D0DSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd s04_ie_01x_17900.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl nodeFBXASC04502E1FF02SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd s04_ha_03_5800.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl nodeFBXASC04503B66CC8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd s04_yuka_01r_4BA80.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl nodeFBXASC045025A023FSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd s04_ie_01r_D100.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl nodeFBXASC045027BC75CSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd s04_kabe_01r2_37100.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl nodeFBXASC0450169D30DSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd s04_kabe_01r_2C900.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl nodeFBXASC0450370F1E3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd s04_saku_01_48800.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl nodeFBXASC0450250681FSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd s04_road_01r_45E00.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
